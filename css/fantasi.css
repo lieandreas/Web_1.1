@@ -1,0 +1,77 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.logo a:link {
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 25px;
+}
+
+.logo a:visited {
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 25px;
+}
+
+.logo a:hover {
+    color: rgb(241, 203, 176);
+    background-color: rgb(255, 255, 255, 0.2);
+    font-weight: bold;
+    font-size: 26px;
+}
+
+.logo a:active {
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 25px;
+}
+
+
+.logo {
+    top: 0;
+    font-size: 20px;
+    background-color: rgba(0, 0, 0, 0.75);
+    text-align: center;
+    position: sticky;
+    padding: 5px;
+}
+.footer {
+    
+    bottom: 0;
+    width: 99%;
+    height: 75px;
+    color: white;
+    font-size: 15px;
+    display: inline-block;
+}
+
+.logoright img {
+    margin-top: 5px;
+    float: left;
+    margin-right: 5px;
+}
+
+.footer p {
+    text-align: right;
+    margin-top: 10px;
+}
+.main {
+    background-image: url('./image/bg2.png');
+    background-size: cover;
+    background-attachment: fixed;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.main p {
+    color: rgb(255, 255, 255);
+}
+.main h1 {
+    color: rgb(255, 255, 255);
+}
+.main h3 {
+    color: rgb(255, 255, 255);
+}

@@ -1,0 +1,25 @@
+*{
+    color: white;
+}
+.footer {
+    
+    bottom: 0;
+    width: 99%;
+    height: 75px;
+    color: white;
+    font-size: 15px;
+    display: inline-block;
+}
+.logoright img {
+    margin-top: 5px;
+    float: left;
+    margin-right: 5px;
+}
+
+.footer p {
+    text-align: right;
+    margin-top: 10px;
+}
+.main{
+    background-image: url('assets/css/image/bg2.png');
+}
